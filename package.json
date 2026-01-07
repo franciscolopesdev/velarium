@@ -1,0 +1,44 @@
+{
+  "name": "velarium",
+  "version": "1.0.0",
+  "description": "Um site imersivo e sombrio para um RPG de mesa focado em horror psicológico e observação",
+  "type": "module",
+  "author": "agent",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/agent/velarium.git"
+  },
+  "keywords": [
+    "rpg",
+    "horror",
+    "psychological-horror",
+    "react",
+    "typescript",
+    "vite",
+    "framer-motion",
+    "threejs",
+    "interactive",
+    "immersive"
+  ],
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^19.2.3",
+    "react-dom": "^19.2.3",
+    "framer-motion": "^12.23.26",
+    "lucide-react": "^0.562.0",
+    "@react-three/fiber": "^9.5.0",
+    "three": "^0.182.0",
+    "@react-three/drei": "^10.7.7"
+  },
+  "devDependencies": {
+    "@types/node": "^22.14.0",
+    "@vitejs/plugin-react": "^5.0.0",
+    "typescript": "~5.8.2",
+    "vite": "^6.2.0"
+  }
+}
