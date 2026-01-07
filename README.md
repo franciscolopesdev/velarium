@@ -73,19 +73,12 @@ O site explora temas de:
    GEMINI_API_KEY=sua_chave_api_aqui
    ```
    
-   > **Nota**: A chave da API Gemini é necessária para funcionalidades específicas. Obtenha sua chave em [Google AI Studio](https://ai.google.dev/).
 
 4. **Execute o projeto localmente**
    ```bash
    npm run dev
    ```
 
-5. **Acesse no navegador**
-   ```
-   http://localhost:5173
-   ```
-
----
 
 ## 🛠️ Tecnologias Utilizadas
 
@@ -186,7 +179,7 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 **agent**
 
-- GitHub: [@agent](https://github.com/agent)
+- GitHub: [@agent](https://github.com/franciscolopesdev)
 
 ---
 
@@ -206,6 +199,6 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ---
 
-Feito com 🖤 e ☕ por [agent](https://github.com/agent)
+Feito por [agent](https://github.com/franciscolopesdev)
 
 </div>
