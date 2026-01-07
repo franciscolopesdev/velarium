@@ -13,7 +13,7 @@
 
 *Uma experiência web imersiva e sombria para um RPG de mesa focado em horror psicológico e observação.*
 
-[Demo](#) • [Reportar Bug](../../issues) • [Solicitar Feature](../../issues)
+[Demo](https://velarium-6yad.vercel.app) • [Reportar Bug](../../issues) • [Solicitar Feature](../../issues)
 
 </div>
 
